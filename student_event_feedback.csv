@@ -1,0 +1,81 @@
+Student_ID,Event,Department,Year,Rating,Comment
+S001,Tech Fest,Computer Science,1st Year,4,Very informative and well organized. The technical sessions were excellent.
+S002,Tech Fest,Computer Science,2nd Year,5,Good event with interesting projects and helpful volunteers.
+S003,Tech Fest,Computer Science,2nd Year,3,"The sessions were useful, but registration was slow."
+S004,Tech Fest,Computer Science,1st Year,4,Loved the demonstrations. More time for Q&A would be helpful.
+S005,Tech Fest,Computer Science,1st Year,4,Great experience and engaging activities.
+S006,Tech Fest,Computer Science,1st Year,3,The event was crowded and some sessions started late.
+S007,Tech Fest,Computer Science,2nd Year,5,Excellent technical content and friendly coordinators.
+S008,Tech Fest,Computer Science,1st Year,4,"Good overall, but the seating arrangement could be improved."
+S009,Tech Fest,Computer Science,4th Year,5,Very informative and well organized. The technical sessions were excellent.
+S010,Tech Fest,Computer Science,4th Year,5,Good event with interesting projects and helpful volunteers.
+S011,AI Workshop,Computer Science,1st Year,4,The workshop was practical and easy to understand.
+S012,AI Workshop,Computer Science,4th Year,5,Excellent session with useful hands-on activities.
+S013,AI Workshop,Computer Science,3rd Year,4,"Very informative, but the workshop needed more time."
+S014,AI Workshop,Computer Science,2nd Year,3,The trainer explained concepts clearly and patiently.
+S015,AI Workshop,Computer Science,1st Year,4,Good examples and practical demonstrations.
+S016,AI Workshop,Computer Science,4th Year,3,"The content was useful, but the lab setup was slow."
+S017,AI Workshop,Computer Science,3rd Year,3,I learned a lot and enjoyed the activities.
+S018,AI Workshop,Computer Science,3rd Year,4,More beginner-friendly exercises would improve it.
+S019,AI Workshop,Computer Science,4th Year,3,The workshop was practical and easy to understand.
+S020,AI Workshop,Computer Science,4th Year,4,Excellent session with useful hands-on activities.
+S021,Entrepreneurship Seminar,Management,3rd Year,4,The speaker was inspiring and the session was useful.
+S022,Entrepreneurship Seminar,Management,3rd Year,4,Good ideas about startups and career opportunities.
+S023,Entrepreneurship Seminar,Management,2nd Year,4,The session was informative but slightly too long.
+S024,Entrepreneurship Seminar,Management,1st Year,4,Excellent speaker and relevant examples.
+S025,Entrepreneurship Seminar,Management,3rd Year,5,"Helpful discussion, especially the real business examples."
+S026,Entrepreneurship Seminar,Management,2nd Year,3,The audio quality was poor at times.
+S027,Entrepreneurship Seminar,Management,4th Year,3,Interesting and motivating seminar.
+S028,Entrepreneurship Seminar,Management,4th Year,4,More interaction with students would be better.
+S029,Entrepreneurship Seminar,Management,2nd Year,5,The speaker was inspiring and the session was useful.
+S030,Entrepreneurship Seminar,Management,3rd Year,4,Good ideas about startups and career opportunities.
+S031,Cultural Fest,Arts & Humanities,3rd Year,5,Amazing performances and a lively atmosphere.
+S032,Cultural Fest,Arts & Humanities,2nd Year,4,Very enjoyable and well coordinated.
+S033,Cultural Fest,Arts & Humanities,2nd Year,3,The cultural programs were creative and entertaining.
+S034,Cultural Fest,Arts & Humanities,4th Year,4,"Loved the performances, but the schedule was delayed."
+S035,Cultural Fest,Arts & Humanities,2nd Year,5,Great event with excellent student participation.
+S036,Cultural Fest,Arts & Humanities,1st Year,4,The sound system could be improved.
+S037,Cultural Fest,Arts & Humanities,1st Year,5,Fun and memorable experience.
+S038,Cultural Fest,Arts & Humanities,4th Year,4,The crowd management needs improvement.
+S039,Cultural Fest,Arts & Humanities,1st Year,5,Amazing performances and a lively atmosphere.
+S040,Cultural Fest,Arts & Humanities,3rd Year,5,Very enjoyable and well coordinated.
+S041,Robotics Workshop,Mechanical,4th Year,5,The practical session was excellent and informative.
+S042,Robotics Workshop,Mechanical,4th Year,4,Great hands-on experience with robotics.
+S043,Robotics Workshop,Mechanical,3rd Year,3,The instructor explained everything clearly.
+S044,Robotics Workshop,Mechanical,2nd Year,5,"Very useful workshop, but more equipment was needed."
+S045,Robotics Workshop,Mechanical,3rd Year,4,Interesting projects and good demonstrations.
+S046,Robotics Workshop,Mechanical,4th Year,4,Some participants had to wait for equipment.
+S047,Robotics Workshop,Mechanical,2nd Year,5,Excellent learning experience.
+S048,Robotics Workshop,Mechanical,4th Year,3,More time for building the project would help.
+S049,Robotics Workshop,Mechanical,1st Year,4,The practical session was excellent and informative.
+S050,Robotics Workshop,Mechanical,2nd Year,4,Great hands-on experience with robotics.
+S051,Photography Workshop,Media,4th Year,5,Creative and enjoyable workshop with useful tips.
+S052,Photography Workshop,Media,4th Year,4,The practical demonstrations were excellent.
+S053,Photography Workshop,Media,4th Year,4,"Good workshop, but the session was a little short."
+S054,Photography Workshop,Media,1st Year,4,I learned useful photography techniques.
+S055,Photography Workshop,Media,3rd Year,3,Very engaging and well organized.
+S056,Photography Workshop,Media,1st Year,4,The venue lighting was not ideal.
+S057,Photography Workshop,Media,4th Year,4,Interesting session with practical examples.
+S058,Photography Workshop,Media,4th Year,3,More outdoor practice would make it better.
+S059,Photography Workshop,Media,3rd Year,4,Creative and enjoyable workshop with useful tips.
+S060,Photography Workshop,Media,1st Year,5,The practical demonstrations were excellent.
+S061,Sports Meet,Physical Education,2nd Year,4,Well organized and energetic event.
+S062,Sports Meet,Physical Education,3rd Year,5,Excellent participation and teamwork.
+S063,Sports Meet,Physical Education,1st Year,5,The event was enjoyable and competitive.
+S064,Sports Meet,Physical Education,3rd Year,4,"Good arrangements, but water facilities need improvement."
+S065,Sports Meet,Physical Education,1st Year,4,Very fun and motivating experience.
+S066,Sports Meet,Physical Education,3rd Year,3,The schedule changed several times.
+S067,Sports Meet,Physical Education,2nd Year,5,Great sportsmanship and coordination.
+S068,Sports Meet,Physical Education,2nd Year,4,More shaded seating would be helpful.
+S069,Sports Meet,Physical Education,1st Year,3,Well organized and energetic event.
+S070,Sports Meet,Physical Education,1st Year,4,Excellent participation and teamwork.
+S071,Career Guidance Seminar,Career Development,2nd Year,5,Very useful guidance about careers and skills.
+S072,Career Guidance Seminar,Career Development,2nd Year,4,The speaker gave practical advice and answered questions.
+S073,Career Guidance Seminar,Career Development,4th Year,4,Informative session with relevant career information.
+S074,Career Guidance Seminar,Career Development,2nd Year,5,Excellent and motivating session.
+S075,Career Guidance Seminar,Career Development,4th Year,4,"The discussion was useful, but more Q&A time is needed."
+S076,Career Guidance Seminar,Career Development,3rd Year,4,"Good information, although the session started late."
+S077,Career Guidance Seminar,Career Development,4th Year,4,Helpful for understanding career options.
+S078,Career Guidance Seminar,Career Development,2nd Year,3,More examples from recent graduates would be useful.
+S079,Career Guidance Seminar,Career Development,1st Year,5,Very useful guidance about careers and skills.
+S080,Career Guidance Seminar,Career Development,1st Year,4,The speaker gave practical advice and answered questions.
